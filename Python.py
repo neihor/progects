@@ -7,5 +7,5 @@ mysecondpath = "D:\python\papka2"
 for i in listdir(mypath):
         print mypath + "\\" + i
 import shutil
-shutil.move(mypath, mysecondpath) 
+shutil.move(mypath, mysecondpath)  
 
